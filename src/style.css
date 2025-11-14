@@ -1,9 +1,0 @@
-@import "tailwindcss";
-
-*{
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.texterea{
-    @apply outline-0 border ps-3 placeholder:text-gray-200 placeholder:text-[12px] placeholder:font-light  border-gray-400 w-full mt-1 overflow-y-auto overflow-x-hidden resize-none h-[180px] border-s-0
-}
